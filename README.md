@@ -1,4 +1,4 @@
-### HI, I'm Dhawal👋
+### Hi, I'm Dhawal👋
 
 - 💛 I love Web Development!
 - 🌱 I’m currently learning React,Fastify,AWS
