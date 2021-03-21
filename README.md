@@ -1,5 +1,8 @@
 ### HI, I'm Dhawal👋
 
+- 💛 I love Web Development!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: a believer in kindness and I love helping others!
 <!--
 **dhawalpatil05/dhawalpatil05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
