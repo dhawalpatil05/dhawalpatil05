@@ -1,6 +1,8 @@
 ### HI, I'm Dhawal👋
 
 - 💛 I love Web Development!
+- 🌱 I’m currently learning React,Fastify,AWS
+- 💬 Ask me about JavaScript,MEAN Development And Building cool Stuff!!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: a believer in kindness and I love helping others!
 <!--
